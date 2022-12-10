@@ -49,10 +49,8 @@ CONTAINER_PORT = 3001
 
 #### Deploy to DEVELOP VPS
 - Deploy from - branch develop
-- Runner with tag - develop
 
 #### Deploy to PRODUCTION VPS
-- Runner with tag - production
 - Deploy from - tag v.X.X.Xnn
 
 ###### Examples tags
