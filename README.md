@@ -1,5 +1,7 @@
 # GitLab-CI-CD-Docker-Node.JS
 
+## For 1 VPS (1 Runner) with cache
+
 GitLab CI/CD template with GitLab-Runner to deploy a project in a docker container on a VPS.
 
 
@@ -68,6 +70,6 @@ CONTAINER_PORT = 3001
 
 ##### Future plans:
 - Optimize Stages
-- Upload files that are needed only to start the project
+- Upload files that are needed only to start the project (For-1-Runner)
 - Running a project in a container for local development
 - ...
